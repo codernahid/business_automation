@@ -1,0 +1,15 @@
+# Core Dependencies
+ttkbootstrap==1.10.1  # Modern UI themes
+pandas==2.0.3         # Data analysis and CSV handling
+matplotlib==3.7.2     # Revenue trend graphs
+python-telegram-bot==20.3  # Daily summary alerts
+
+# Database & Utilities
+sqlite3>=3.37.0       # Built-in Python (no install needed)
+python-dotenv==1.0.0  # For storing API keys securely
+schedule==1.2.0       # Automated daily tasks (cron alternative)
+
+# Optional (Uncomment if needed)
+# flask==2.3.2        # For future web API expansion
+# psycopg2-binary==2.9.6  # PostgreSQL adapter
+# prophet==1.1.2      # Advanced revenue forecasting
